@@ -1,8 +1,8 @@
-# **Program: Multiple Sleeping Barber Problem
+# **Program: Multiple Sleeping Barber Problem**
 
 
 
-* ***Team memebers :
+* ***Team memebers :***
    * 1-Omnia Arafat Fahmy
    * 2-Esraa Shaaban El Sayed 
    * 3-Nour khaled ali
@@ -10,7 +10,7 @@
    * 5-
    * 6-
 
-**About:
+**About:**
 
 In this problem, the original Sleeping-barber problem is extended to a multiple sleeping barber problem where many customers visit a barbershop and receive haircut service in the shop. This uses semaphores (Semaphore APIs) available in Linux platform.
 
