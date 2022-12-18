@@ -32,8 +32,16 @@ In this problem, the original Sleeping-barber problem is extended to a multiple 
 
 * **The Flow Chart of The Problem**
 
-    * ![Flow chart](https://user-images.githubusercontent.com/83679206/208322843-0b9454c4-e984-4586-b930-1b21568178e1.jpg)
 
+
+     ![Flow chart](https://user-images.githubusercontent.com/83679206/208322843-0b9454c4-e984-4586-b930-1b21568178e1.jpg)
+     
+     
+     
+ * **The documention The Problem**
+    
+
+[OS 2  Presentation.pptx](https://github.com/NourSewafy/Project-OS/files/10254783/OS.2.Presentation.pptx)
 
 
 # Discussing the idea with Animation video 😊
