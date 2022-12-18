@@ -1,4 +1,4 @@
-#**Program: Multiple Sleeping Barber Problem
+# **Program: Multiple Sleeping Barber Problem
 
 
 
