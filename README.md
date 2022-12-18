@@ -38,10 +38,18 @@ In this problem, the original Sleeping-barber problem is extended to a multiple 
      
      
      
+     
+     
+     
+     
+     
  * **The documention The Problem**
     
 
-[OS 2  Presentation.pptx](https://github.com/NourSewafy/Project-OS/files/10254783/OS.2.Presentation.pptx)
+[OS.2.Presentation.pptx](https://github.com/NourSewafy/Project-OS/files/10254793/OS.2.Presentation.pptx)
+
+
+
 
 
 # Discussing the idea with Animation video 😊
