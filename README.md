@@ -30,7 +30,7 @@ In this problem, the original Sleeping-barber problem is extended to a multiple 
 
 
 
-                                                     ## The Flow Chart of The Problem
+                                                      The Flow Chart of The Problem
 
 
 
@@ -43,10 +43,10 @@ In this problem, the original Sleeping-barber problem is extended to a multiple 
      
      
      
-                                                       ### **The documention The Problem**
+                                                        The documention The Problem
     
 
-[OS.2.Presentation.pptx](https://github.com/NourSewafy/Project-OS/files/10254793/OS.2.Presentation.pptx)
+        **[OS.2.Presentation.pptx](https://github.com/NourSewafy/Project-OS/files/10254793/OS.2.Presentation.pptx)**
 
 
 
