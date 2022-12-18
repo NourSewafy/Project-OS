@@ -9,6 +9,10 @@
    * 4-
    * 5-
    * 6-
+   * 6-
+   * 7-
+   * 8-
+
 
 **About:**
 
@@ -26,8 +30,9 @@ In this problem, the original Sleeping-barber problem is extended to a multiple 
 
 
 
+* **The Flow Chart of The Problem**
 
-
+    * ![Flow chart](https://user-images.githubusercontent.com/83679206/208322843-0b9454c4-e984-4586-b930-1b21568178e1.jpg)
 
 
 
