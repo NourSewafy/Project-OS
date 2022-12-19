@@ -22,7 +22,7 @@ public class SleepingBarber {
 //    	System.out.println("Enter the number of customers:");			//inout the number of customers for the shop
 //    	noOfCustomers=sc.nextInt();
 
-ExecutorService exec = Executors.newFixedThreadPool(6);
+ExecutorService exec = Executors.newFixedThreadPool(30);
 // At any point, at most n Threads will be active processing tasks.
 //If additional tasks are submitted when all threads are active,
 //they will wait in the queue until a thread is available.	
