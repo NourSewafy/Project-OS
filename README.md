@@ -8,7 +8,7 @@
    * 3-Nour khaled ali
    * 4-Rana Kamal Ahmed ElBadry
    * 5-Sohaila sayed
-   * 6-Aya Bahget
+   * 6-Aya Bahgat
    * 7-Mahmoud Abdelhameed Abdaljawad
    * 8-Mohammed sayed Ahmed
 
